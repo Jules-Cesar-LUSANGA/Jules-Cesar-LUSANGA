@@ -1,16 +1,14 @@
-### Hi there 👋
+# Jules-César LUSANGA
 
-<!--
-**Jules-Cesar-LUSANGA/Jules-Cesar-LUSANGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Développeur PHP et Laravel**
 
-Here are some ideas to get you started:
+**Lubumbashi, Haut-Katanga, RDC**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis un développeur PHP et Laravel avec une année d'expérience. Je suis passionné par le développement web et je suis toujours à la recherche de nouveaux défis.
+
+## Stack
+
+* PHP
+* Laravel
+* MySQL
+* Bootstrap
