@@ -11,4 +11,4 @@ Je suis un développeur PHP et Laravel avec une année d'expérience. Je suis pa
 * PHP
 * Laravel
 * MySQL
-* Bootstrap
+* Bootstrap/TailwindCSS
